@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🎓 Student: KPI / IK-23
+- 🧑‍💻 Languages: C#, JavaScript
+- 💬 Telegram: [@spaidi96](https://t.me/spaidi96)
+- 📫 Email: roman.hrubryn@gmail.com
+
+
+
+
 <!--
 **spaidi96/spaidi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
